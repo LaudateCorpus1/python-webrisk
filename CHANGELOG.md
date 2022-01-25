@@ -3,6 +3,13 @@
 [PyPI History][1]
 
 [1]: https://pypi.org/project/google-cloud-webrisk/#history
+## [1.7.0](https://github.com/googleapis/python-webrisk/compare/v1.6.1...v1.7.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#156](https://github.com/googleapis/python-webrisk/issues/156)) ([0a5ebb7](https://github.com/googleapis/python-webrisk/commit/0a5ebb7be318622f018e52cee88079bcd67de2de))
+
 ### [1.6.1](https://www.github.com/googleapis/python-webrisk/compare/v1.6.0...v1.6.1) (2021-11-01)
 
 
